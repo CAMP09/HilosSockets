@@ -1,6 +1,6 @@
-﻿# PSP-Actividad1-HilosYSockets
+﻿#Programación de Servicios y Procesos.
 
-AE-1. Hilos y Sockets - Programación de Servicios y Procesos.
+AE-1. Hilos y Sockets - 
 
 Actividad Realizada por:
 
